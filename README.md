@@ -1,7 +1,10 @@
-😄 작성일: 2026-01-28
+# RAG Practice
 
-RAG 실습 기록 (VS Code 로컬)
-폴더: rag_practice/
-가상환경: .venv 사용
-PDF: data/ 폴더에 2개 저장
-Chroma DB: chroma_db/ 생성됨
+RAG (Retrieval-Augmented Generation) 실습용 코드 모음 레포.
+
+- VS Code 로컬 환경
+- Python + LangChain + Chroma
+- PDF 문서 기반 질의응답 실습
+
+자세한 설명은  
+`RAG_practice.md`, `RAG_app.md` 파일 참고.
